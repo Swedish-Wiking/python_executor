@@ -1,6 +1,6 @@
 # Python Executor
 
-Enables drop-handler on `.py` files as well as edit with VS Code on normal file open action.
+Enables drophandler on `.py` files as well as edit with VS Code on normal file open action.
 
 ## Installation
 
